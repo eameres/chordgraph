@@ -1,0 +1,16 @@
+Count/max (ratio): 279/676 (41.27%)
+5050 letter pairs total.
+order letter1 letter2 count probability
+0 i n 170 0.0337
+1 t h 148 0.0293
+2 o n 120 0.0238
+3 a t 116 0.0230
+4 h e 112 0.0222
+5 r e 111 0.0220
+6 e r 109 0.0216
+7 t i 107 0.0212
+8 t e 95 0.0188
+9 a n 88 0.0174
+10 i o 86 0.0170
+11 o r 81 0.0160
+12 n t 77 0.0152
